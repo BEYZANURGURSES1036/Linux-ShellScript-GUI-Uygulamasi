@@ -2,7 +2,7 @@
 Linux Makinesinin Sistem Ve Donanım Bilgilerini Görüntüleme
 
 
-## UYgulamanın Amacı
+## Uygulamanın Amacı
 Linux bash script dili ile uygulama geliştirmektir. Uygulamanın görsel arayüzü için  ZENITY Kütüphanesi kullanılmıştır. Zenity kütüphanesi görsel arayüze olanak sağlamaktadır.
 
 ## Uygulama  İçeriği
@@ -12,8 +12,11 @@ Linux makinasının sistem ve donanım bilgilerini kullanıcıya sunan bir uygul
  - SHELL
 
 ## Nasıl Çalışır ?
-Repository içine yüklenen .sh dosyaları indirilir ve bunlar aynı klasör içine yerleştirilip terminal üzerinden **bash giris.sh** komutu çalıştırılır.Uygulama komut satırından başlamış olur fakat  komutu çalıştırdıktan görsel arayüzden çalışmaya devam edecektir.
-
+Repository içine yüklenen .sh dosyaları indirilir ve bunlar aynı klasör içine yerleştirilip terminal üzerinden **bash giris.sh** komutu çalıştırılır.Uygulamaya giriş ekranı gelmektedir, giriş ekranından sonra **bash shell.sh** komutu çalışmaya başlar. Uygulama komut satırından başlamış olur fakat  komutu çalıştırdıktan görsel arayüzden çalışmaya devam edecektir. Aşağıda belirtilen komutlardan bazılarını terminal üzerinde kurulum yapılması gerekmektedir. Bu komutlar;
+     --sudo apt install lsscsi
+     --sudo apt install inxi
+     --sudo apt install hwinfo.
+Bunların kurulumu gerçekleştirdikten sonra zenity ekranında bunlarla ilgili donanım özelliğininin sonucunu görmek istenildiğinde sudo şifresi ile sonuç zenity ekranında görülmektedir.
 
 ## Uygulamada Kullanılan Komutlar, Açıklamaları Ve Komutların Yer Aldığı Dosyalar
 - Makine Donanım Adı (Komut: uname -a / hardwarename.sh)
