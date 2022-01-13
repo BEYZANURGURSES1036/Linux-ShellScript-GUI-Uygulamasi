@@ -1,0 +1,2 @@
+df -H  > cozum.txt
+

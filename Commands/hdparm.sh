@@ -1,0 +1,2 @@
+hdparm >cozum.txt
+

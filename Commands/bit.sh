@@ -1,0 +1,2 @@
+uname -m> cozum.txt
+

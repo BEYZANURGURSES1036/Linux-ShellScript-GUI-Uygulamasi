@@ -1,0 +1,2 @@
+lspci >cozum.txt
+
