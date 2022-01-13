@@ -16,6 +16,21 @@ Repository içine yüklenen .sh dosyaları indirilir ve bunlar aynı klasör iç
 
 
 ## Uygulamada Kullanılan Komutlar Ve Açıklamaları
+1. [Giriş ve Tanışma](#giriş-ve-tanışma)
+2. [Nesne Yönelimli Programlama Nedir?](#nesne-yönelimli-programlama-nedir)
+   - [Sınıf Hiyerarşileri](#sınıf-hiyerarşileri)
+   - [Nesne Yönelimli Programlama İlkeleri](#nesne-yönelimli-programlama-i̇lkeleri)
+     - [Abstraction (Soyutlama)](#encapsulation-kapsülleme)
+     - [Encapsulation (Kapsülleme)](#abstraction-soyutlama)
+     - [Inheritance (Kalıtım)](#inheritance-kalıtım)
+     - [Polymorphism (Çok Biçimlilik)](#polymorphism-çok-biçimlilik)
+   - [Nesneler Arası İlişkiler](#nesneler-arası-i̇lişkiler)
+     - [Inheritance (Kalıtım)](#inheritance)
+     - [Implementation](#implementation)
+     - [Association (Bağlantı)](#association-bağlantı)
+     - [Dependency (Bağımlılık)](#dependency-bağımlılık)
+     - [Composition(Bileşim)](#compositionbileşim)
+     - [Aggregation(İçerme)](#aggregationi̇çerme)
 1 -- umame -a
 2 -- umame -m
 3 . sudo lshw
