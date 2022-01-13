@@ -16,7 +16,7 @@ Repository içine yüklenen .sh dosyaları indirilir ve bunlar aynı klasör iç
 
 
 ## Uygulamada Kullanılan Komutlar Ve Açıklamaları
-1. [Giriş ve Tanışma](#giriş-ve-tanışma)
+1. [Makine Donanım Adı  uname -a](#giriş-ve-tanışma)
 2. [Nesne Yönelimli Programlama Nedir?](#nesne-yönelimli-programlama-nedir)
    - [Sınıf Hiyerarşileri](#sınıf-hiyerarşileri)
    - [Nesne Yönelimli Programlama İlkeleri](#nesne-yönelimli-programlama-i̇lkeleri)
@@ -31,16 +31,26 @@ Repository içine yüklenen .sh dosyaları indirilir ve bunlar aynı klasör iç
      - [Dependency (Bağımlılık)](#dependency-bağımlılık)
      - [Composition(Bileşim)](#compositionbileşim)
      - [Aggregation(İçerme)](#aggregationi̇çerme)
-1 -- umame -a
-2 -- umame -m
-3 . sudo lshw
-4 . lspci
-5 . lsscsi
-6 . lsusb -v
-7 . lsblk
-8 . df -H
-9 . sudo fdisk -l
-10 . mount | column -t
+
+
+İşlemcinin Kaç Bitlik Mimarisi  uname -m
+İşlemci Bilgileri  lscpu 
+Donanım Bilgileri  sudo lshw 
+PCI (Peripheral Component Interconnect)  lspci
+SCSI (Small Computer System Interface/Küçük Bilgisayar Sistemi Arayüzü)   lsscsi
+USB Veri Yolları Ve Cihaz Detayları   lsusb 
+Blok Aygıt Bilgileri  lsblk
+Dosya Sistemlerinin Disk Alanı  df -H 
+Dosya Sistem Bilgileri  sudo  fdisk -l 
+Bağlı Dosya Sistemlerini Görüntüleme  mount
+İşlemci Hakkındaki Bilgiler(SMBIOS Aracılığıyla)  sudo dmidecode -t processor
+İşlemcinin BIOS Özelliği    sudo dmidecode -t bios  
+/proc Dizinindeki CPU Bilgileri   cat  /proc/cpuinfo
+/proc Dizinindeki Versiyon Bilgileri   cat  /proc/version
+Sabit Diskler vb. Sata Cihazları Hakkında Bilgiler  hdparm
+Donanım Bilgileri(Okunması Kolay)   inxi -Fx 
+Donanım Bilgileri(Ayrıntılı)  hwinfo  --short
+
 
 
 
