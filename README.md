@@ -1,6 +1,6 @@
 # Linux-Shell-Script-GUI-Uygulaması
 Linux Makinesinin Sistem Ve Donanım Bilgilerini Görüntüleme
-![](/Images/resim.png) 
+![](https://cdn.oyepng.com/uploads/thumbnail/linux-logo-icon-png-transparent-background-11638089776rziynnmi01.png) 
 
 ## Uygulamanın Amacı
 Linux bash script dili ile uygulama geliştirmektir. Uygulamanın görsel arayüzü için  ZENITY Kütüphanesi kullanılmıştır. Zenity kütüphanesi görsel arayüze olanak sağlamaktadır.
