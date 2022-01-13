@@ -12,7 +12,7 @@ Linux makinasının sistem ve donanım bilgilerini kullanıcıya sunan bir uygul
  - SHELL
 
 ## Nasıl Çalışır ?
-Repository içine yüklenen .sh dosyaları indirilir ve bunlar aynı klasör içine yerleştirilip terminal üzerinden **[bash giris.sh]** komutu çalıştırılır.Uygulama komut satırından başlamış olur fakat  komutu çalıştırdıktan görsel arayüzden çalışmaya devam edecektir.
+Repository içine yüklenen .sh dosyaları indirilir ve bunlar aynı klasör içine yerleştirilip terminal üzerinden **bash giris.sh** komutu çalıştırılır.Uygulama komut satırından başlamış olur fakat  komutu çalıştırdıktan görsel arayüzden çalışmaya devam edecektir.
 
 
 ## Projede  Yapılan Fonsiyonlar
