@@ -15,7 +15,19 @@ Linux makinasının sistem ve donanım bilgilerini kullanıcıya sunan bir uygul
 Repository içine yüklenen .sh dosyaları indirilir ve bunlar aynı klasör içine yerleştirilip terminal üzerinden **bash giris.sh** komutu çalıştırılır.Uygulama komut satırından başlamış olur fakat  komutu çalıştırdıktan görsel arayüzden çalışmaya devam edecektir.
 
 
-## Uygulamada Kullanılan Komutlar Ve Açıklamaları 
+## Uygulamada Kullanılan Komutlar Ve Açıklamaları
+1 . umame -a
+2 . umame -m
+3 . sudo lshw
+4 . lspci
+5 . lsscsi
+6 . lsusb -v
+7 . lsblk
+8 . df -H
+9 . sudo fdisk -l
+10 . mount | column -t
+
+
 
 
 ## Uygulamanın Anlatım Videosu(Youtube)
