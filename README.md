@@ -1,6 +1,6 @@
 # Linux-Shell-Script-GUI-Uygulaması
 Linux Makinesinin Sistem Ve Donanım Bilgilerini Görüntüleme
-
+![](/Images/resim.png) 
 
 ## Uygulamanın Amacı
 Linux bash script dili ile uygulama geliştirmektir. Uygulamanın görsel arayüzü için  ZENITY Kütüphanesi kullanılmıştır. Zenity kütüphanesi görsel arayüze olanak sağlamaktadır.
@@ -14,7 +14,12 @@ Linux makinasının sistem ve donanım bilgilerini kullanıcıya sunan bir uygul
 ## Nasıl Çalışır ?
 Repository içine yüklenen commands dizininden .sh dosyaları indirilir ve bunlar aynı klasör içine yerleştirilip terminal üzerinden **bash giris.sh** komutu çalıştırılır.
 ![](/Images/giris.png)
-Uygulamaya giriş ekranı gelmektedir, giriş ekranından sonra **bash shell.sh** komutu çalışmaya başlar. Uygulama komut satırından başlamış olur fakat  komutu çalıştırdıktan görsel arayüzden çalışmaya devam edecektir. Aşağıda belirtilen komutlardan bazılarını terminal üzerinde kurulum yapılması gerekmektedir. Bu komutlar;
+Uygulamaya giriş ekranı gelmektedir, giriş ekranından sonra **bash shell.sh** komutu çalışmaya başlar. Uygulama komut satırından başlamış olur fakat  komutu çalıştırdıktan görsel arayüzden çalışmaya devam edecektir.
+![](/Images/shell.png) 
+![](/Images/donanım1.png) 
+Yukardaki ekrandan seçim yapıldıktan sonra gelecek zenity ekranı:
+![](/Images/donanım.png) 
+Aşağıda belirtilen komutlardan bazılarını terminal üzerinde kurulum yapılması gerekmektedir. Bu komutlar;
      --sudo apt install lsscsi
      --sudo apt install inxi
      --sudo apt install hwinfo.
