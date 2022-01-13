@@ -14,5 +14,16 @@ Linux makinasının sistem ve donanım bilgilerini kullanıcıya sunan bir uygul
 ## Nasıl Çalışır ?
 Uygulama komut satırından başlatılır fakat görsel arayüzden çalışmaya devam edecektir.
 
+
+## Projede  Yapılan Fonsiyonlar
+
+
+## Uygulamanın Anlatım Videosu(Youtube)
+
+## Projeyi Yapan
+>**[Beyzanur GÜRSES](https://github.com/BEYZANURGURSES1036)**
+
+
+
  
      
