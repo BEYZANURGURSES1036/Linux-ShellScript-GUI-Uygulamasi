@@ -16,8 +16,8 @@ Repository içine yüklenen .sh dosyaları indirilir ve bunlar aynı klasör iç
 
 
 ## Uygulamada Kullanılan Komutlar Ve Açıklamaları
-1 . umame -a
-2 . umame -m
+1 -- umame -a
+2 -- umame -m
 3 . sudo lshw
 4 . lspci
 5 . lsscsi
