@@ -16,7 +16,7 @@ Repository içine yüklenen .sh dosyaları indirilir ve bunlar aynı klasör iç
 
 
 ## Uygulamada Kullanılan Komutlar Ve Açıklamaları
-1. [Makine Donanım Adı ]  uname -a(#giriş-ve-tanışma)
+- [Makine Donanım Adı ]  uname -a(#giriş-ve-tanışma)
 2. [Nesne Yönelimli Programlama Nedir?](#nesne-yönelimli-programlama-nedir)
    - [Sınıf Hiyerarşileri](#sınıf-hiyerarşileri)
    - [Nesne Yönelimli Programlama İlkeleri](#nesne-yönelimli-programlama-i̇lkeleri)
