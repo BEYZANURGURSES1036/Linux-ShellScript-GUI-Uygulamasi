@@ -49,7 +49,7 @@ Bunların kurulumu gerçekleştirdikten sonra zenity ekranında bunlarla ilgili 
 
 
 ## Uygulamanın Anlatım Videosu(Youtube)
-Uygulamaya [buradan](https://youtu.be/1VIq041-VWo) erişebilirsiniz.
+Uygulamaya [buradan](https://www.youtube.com/watch?v=pDvmtRp1-vI) erişebilirsiniz.
 
 ## Projeyi Yapan
 >**[Beyzanur GÜRSES](https://github.com/BEYZANURGURSES1036)**
